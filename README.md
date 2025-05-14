@@ -112,4 +112,3 @@ Port 5175 is in use, trying another one...
 
 ## 라이센스  
 MIT License 
-# vite-react-tailwind-template
